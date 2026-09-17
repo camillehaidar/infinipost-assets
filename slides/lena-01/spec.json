@@ -1,0 +1,31 @@
+[
+ {
+  "src": "01.png",
+  "out": "01.png",
+  "title": "Apps, ohne die ich nicht mehr verreise"
+ },
+ {
+  "src": "03.png",
+  "out": "02.png",
+  "title": "Citymapper",
+  "body": "Beste App für Wege in fremden Städten: Bus, Bahn, zu Fuß, alles mit Live-Zeiten"
+ },
+ {
+  "src": "05.png",
+  "out": "03.png",
+  "title": "Atlas",
+  "body": "Geht deine Fotomediathek durch und baut daraus automatisch deine Reisekarte. Zählt jedes Land. Komplett offline, nichts verlässt dein iPhone."
+ },
+ {
+  "src": "04.png",
+  "out": "04.png",
+  "title": "Splitwise",
+  "body": "Kosten mit Freunden teilen, ohne dass es am Ende peinlich wird"
+ },
+ {
+  "src": "02.png",
+  "out": "05.png",
+  "title": "Google Übersetzer",
+  "body": "Kamera auf die Speisekarte halten, fertig"
+ }
+]
