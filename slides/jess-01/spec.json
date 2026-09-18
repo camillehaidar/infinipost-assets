@@ -1,0 +1,31 @@
+[
+ {
+  "src": "01.png",
+  "out": "01.png",
+  "title": "Apps I never travel without"
+ },
+ {
+  "src": "02.png",
+  "out": "02.png",
+  "title": "Citymapper",
+  "body": "Bus, train, walking in any city, live times"
+ },
+ {
+  "src": "03.png",
+  "out": "03.png",
+  "title": "Atlas Photo Map",
+  "body": "Builds your travel map from your photos. Fully offline."
+ },
+ {
+  "src": "04.png",
+  "out": "04.png",
+  "title": "Splitwise",
+  "body": "Split costs with friends without it getting awkward"
+ },
+ {
+  "src": "05.png",
+  "out": "05.png",
+  "title": "Google Translate",
+  "body": "Point the camera at the menu, done"
+ }
+]

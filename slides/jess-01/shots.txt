@@ -1,0 +1,5 @@
+01.png|The woman: mid-20s, long dark curly hair, light blue denim jacket, seen from behind, standing at a departures board in JFK airport with a carry-on, morning light
+02.png|The woman: mid-20s, long dark curly hair, light blue denim jacket, seen from behind, on a Lisbon street looking at her phone with a transit map (screen blurry), yellow tram passing
+03.png|The woman: mid-20s, long dark curly hair, light blue denim jacket, seen from behind, sitting on a rock above the Pacific coast in Big Sur looking at her phone
+04.png|The woman: mid-20s, long dark curly hair, light blue denim jacket, seen from behind, at a taco place in Mexico City with two friends (faces away), splitting the bill, phone on the table
+05.png|The woman: mid-20s, long dark curly hair, light blue denim jacket, seen from behind, in a Tokyo ramen shop pointing her phone at a handwritten Japanese menu, warm lamp light
