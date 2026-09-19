@@ -1,0 +1,25 @@
+All have height/width ratio `1.777`, so none needed regeneration.
+tokens used
+52,829
+Done. Generated with the built-in `image_gen` tool, saved into the current directory, and verified with PIL.
+
+```text
+01.png: 941x1672
+02.png: 941x1672
+03.png: 941x1672
+04.png: 941x1672
+05.png: 941x1672
+06.png: 941x1672
+```
+
+All have height/width ratio `1.777`, so none needed regeneration.
+total 27648
+drwxr-xr-x  8 camillehaidar  staff      256 Sep 19 09:29 .
+drwxr-xr-x  7 camillehaidar  staff      224 Sep 19 09:25 ..
+-rw-r--r--@ 1 camillehaidar  staff  3011529 Sep 19 09:29 01.png
+-rw-r--r--@ 1 camillehaidar  staff  2369414 Sep 19 09:29 02.png
+-rw-r--r--@ 1 camillehaidar  staff  2267061 Sep 19 09:29 03.png
+-rw-r--r--@ 1 camillehaidar  staff  2440332 Sep 19 09:29 04.png
+-rw-r--r--@ 1 camillehaidar  staff  2132873 Sep 19 09:29 05.png
+-rw-r--r--@ 1 camillehaidar  staff  1924691 Sep 19 09:29 06.png
+lena-05 exit 0
