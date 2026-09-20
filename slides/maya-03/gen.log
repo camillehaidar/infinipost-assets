@@ -1,0 +1,24 @@
+`06.png`: 941x1672  
+
+All ratios are `1.7768`, so none needed regeneration.
+tokens used
+52,950
+Done. Generated with the built-in `image_gen` tool, saved in the current directory, and verified with PIL.
+
+`01.png`: 941x1672  
+`02.png`: 941x1672  
+`03.png`: 941x1672  
+`04.png`: 941x1672  
+`05.png`: 941x1672  
+`06.png`: 941x1672  
+
+All ratios are `1.7768`, so none needed regeneration.
+total 26448
+drwxr-xr-x  8 camillehaidar  staff      256 Sep 20 09:19 .
+drwxr-xr-x  5 camillehaidar  staff      160 Sep 20 09:13 ..
+-rw-r--r--@ 1 camillehaidar  staff  2184763 Sep 20 09:19 01.png
+-rw-r--r--@ 1 camillehaidar  staff  2335548 Sep 20 09:19 02.png
+-rw-r--r--@ 1 camillehaidar  staff  2173454 Sep 20 09:19 03.png
+-rw-r--r--@ 1 camillehaidar  staff  2264708 Sep 20 09:19 04.png
+-rw-r--r--@ 1 camillehaidar  staff  2571657 Sep 20 09:19 05.png
+-rw-r--r--@ 1 camillehaidar  staff  2000430 Sep 20 09:19 06.png
