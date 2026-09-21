@@ -1,0 +1,38 @@
+[
+ {
+  "src": "01.png",
+  "out": "01.png",
+  "title": "3 things I do on my iPhone before every trip",
+  "body": "No. 1 showed me 26 countries"
+ },
+ {
+  "src": "04.png",
+  "out": "02.png",
+  "title": "1. Open Atlas Photo Map",
+  "body": "The map builds itself from your photos. Offline."
+ },
+ {
+  "src": "02.png",
+  "out": "03.png",
+  "title": "2. Download offline maps",
+  "body": "No signal at the station, no problem"
+ },
+ {
+  "src": "03.png",
+  "out": "04.png",
+  "title": "3. Clear some storage",
+  "body": "Apps go. The photos stay, always"
+ },
+ {
+  "src": "05.png",
+  "out": "05.png",
+  "title": "26 countries since 2021",
+  "body": "Not a single pin by hand"
+ },
+ {
+  "src": "06.png",
+  "out": "06.png",
+  "title": "Which country is next?",
+  "body": "Tell me below"
+ }
+]
