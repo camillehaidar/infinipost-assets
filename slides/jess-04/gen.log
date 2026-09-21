@@ -1,0 +1,24 @@
+Each has height/width ratio `1.7768`, so none needed regeneration.
+tokens used
+54,357
+Done. All six images were saved in the current directory and passed the PIL portrait ratio check.
+
+```text
+01.png: 941x1672
+02.png: 941x1672
+03.png: 941x1672
+04.png: 941x1672
+05.png: 941x1672
+06.png: 941x1672
+```
+
+Each has height/width ratio `1.7768`, so none needed regeneration.
+total 29208
+drwxr-xr-x  8 camillehaidar  staff      256 Sep 21 12:22 .
+drwxr-xr-x  7 camillehaidar  staff      224 Sep 21 12:17 ..
+-rw-r--r--@ 1 camillehaidar  staff  2782079 Sep 21 12:22 01.png
+-rw-r--r--@ 1 camillehaidar  staff  2679344 Sep 21 12:22 02.png
+-rw-r--r--@ 1 camillehaidar  staff  2483654 Sep 21 12:22 03.png
+-rw-r--r--@ 1 camillehaidar  staff  2522876 Sep 21 12:22 04.png
+-rw-r--r--@ 1 camillehaidar  staff  2143121 Sep 21 12:22 05.png
+-rw-r--r--@ 1 camillehaidar  staff  2328400 Sep 21 12:22 06.png
